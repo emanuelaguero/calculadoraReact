@@ -1,0 +1,30 @@
+.estilo-boton{
+height:55px;
+width: 55px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+flex: 1 1;
+font-size: 35px;
+background-color: black;
+color: white;
+border-radius: 5px;
+border: 2px solid  white;
+margin: 6px;
+cursor: pointer;
+user-select: none;
+
+}
+
+
+.estilo-boton:hover{
+    background-color: rgb(64, 61, 61);
+}
+.estilo-operador{
+background-color: orange;
+}
+
+.estilo-operador:hover{
+    background-color: rgb(53, 178, 246);
+    }

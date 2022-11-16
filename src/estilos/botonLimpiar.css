@@ -1,0 +1,21 @@
+.boton-limpiar{
+    height: 50px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: red;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-size: bold;
+    color: white;
+    border:2px solid white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.boton-limpiar:hover{
+    background-color: rgb(233, 70, 70);
+
+}
